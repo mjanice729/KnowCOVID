@@ -127,7 +127,6 @@ Here is a site map that shows how pages are related to each other, what content 
 
 * https://reactjs.org/docs/testing-recipes.html#data-fetching
 * https://stackoverflow.com/questions/55830414/how-to-read-text-file-in-react
-* https://www.bitdegree.org/learn/html-tab
 
 
 ## Authors
