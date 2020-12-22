@@ -11,16 +11,13 @@ the situation in other countries.
 
 
 ## Getting Started
-This README.md is visible because you have access to 'Terrific_Coders_PROJECT'.
-Please download the repository. All relevant code is in the folder 
-'Terrific_Coders_PROJECT-master'. 
 
 Instructions to run the project:
-1. Download the repository from 'Terrific_Coders_PROJECT-master'
+1. Download the repository
 2. Open command line
 3. To run the frontend server, navigate to the following directory path:
 
-      ``` /Terrific_Coders_PROJECT/Terrific_Coders_PROJECT-master/KnowCOVID/knowcovid ```
+      ``` KnowCOVID/knowcovid```
 
 4. Install Node.js
 
@@ -36,7 +33,7 @@ Instructions to run the project:
 
 7. To run the backend, on commandline navigate to the following directory path:
 
-      ```/Terrific_Coders_PROJECT/Terrific_Coders_PROJECT-master```
+      ```/KnowCOVID ```
 
 8. Run Internet_to_text
 

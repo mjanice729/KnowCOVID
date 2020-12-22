@@ -1,0 +1,314 @@
+<<<<<<< HEAD
+Title:       The government’s failure to provide economic relief is killing people
+
+
+Description: The lack of funding from Congress is making the pandemic worse.
+
+
+Date:        12/02/2020
+
+
+Content:     When Covid-19 began spreading across the United States this spring, the federal government put in place a series of protections to help workers and families weather the economic impact.
+
+Then, one by one, the government took them all away.
+
+Expanded unemployment insurance, which helped keep millions of laid-off workers out of poverty, expired at the end of July. 
+Federal stimulus checks were issued to millions of taxpayers once, beginning in April, but never again. 
+The Paycheck Protection Program (PPP) loans meant to keep small businesses afloat expired in August, even as many of those businesses faced a 
+second surge in cases.
+
+And it’s about to get a lot worse, with a host of benefits from student loan forbearance to the federal eviction moratorium set to expire 
+at the end of December.
+
+Many economists agree that the federal government’s insufficient economic protections are driving Americans — 
+especially low-wage workers who have been hard-hit in the pandemic — further into poverty. But something else is also becoming clear: 
+The lack of economic safeguards for Americans is making Covid-19 worse, too.
+
+The latest evidence is a study showing that lifting state-level eviction moratoriums, 
+which allowed landlords to once again kick out renters for nonpayment, was associated with an increase in Covid-19 infections. 
+Between March and September, getting rid of the bans 
+and allowing evictions to continue led to as many as 433,700 excess Covid-19 cases and 10,700 deaths, the researchers found.
+
+Meanwhile, the lack of relief for small-business owners is forcing many to choose between closing their doors forever or staying open during the pandemic 
+— and contributing to transmission rates. “They’re making heartbreaking decisions every day,” Lindsey Leininger, 
+a public health educator and professor at Dartmouth’s Tuck School of Business, told Vox.
+
+And with unemployment benefits running out, workers are forced to go back to unsafe occupations, even if they have underlying conditions 
+that make them especially vulnerable to the virus. “We have not made it feasible for most people to safely shelter in place,” 
+Camara Phyllis Jones, a family physician, epidemiologist, and past president of the American Public Health Association, told Vox.
+
+Those most affected by the lack of economic protection are those most impacted by Covid-19: Black Americans, 
+other people of color, and people living in poverty. And as the country enters a dark winter, 
+inaction by the Trump administration and Congress isn’t just hurting Americans’ livelihoods — it’s costing them their lives.
+
+The federal government gave Americans some economic relief in the spring. Then it dried up.
+Covid-19 caused unprecedented economic devastation when it began spreading in the US earlier this year. 
+As restaurants, hotels, and other businesses shuttered, unemployment reached heights unseen since the Great Depression. 
+In late March, more than 6 million people filed for unemployment in a single week; before the pandemic, 
+the highest number of initial claims in a week was about 700,000 in 1982.
+
+Food banks were overwhelmed with individuals and families unable to afford groceries, 
+and the nonprofit Feeding America projected that one in six Americans — including one in four children — could experience food insecurity in 2020. 
+Meanwhile, 5.6 million workers lost their employer-provided health insurance in March and April, leaving many without a way to pay for medical care 
+during a public health crisis.
+
+To help blunt the pandemic’s economic impact, Congress instituted a number of measures: 
+a $600-per-week addition to unemployment benefits, an expansion of unemployment insurance to cover part-time and gig economy workers, 
+a stimulus check of up to $1,200 paid to many Americans, and PPP loans to help small businesses keep employees on the payroll. 
+Some state and local governments also announced eviction moratoriums, and in September, the federal government ordered 
+its own ban through the end of the year.
+
+The programs were far from perfect, but they helped many Americans stay afloat: Despite skyrocketing unemployment, 
+some estimates found that poverty actually fell in April and May thanks to the availability of federal aid.
+
+But as the virus continued to surge, that aid started to dry up. It’s now been four months since expanded unemployment benefits expired, 
+and Congress hasn’t approved any new relief in that time.
+
+That’s hurting Americans’ ability to pay their bills and provide for their families — 
+especially if they previously worked in low-wage service sector jobs that were disproportionately hard-hit in the spring and have been slow to return. 
+But it’s also hurting the country’s ability to fight the virus.
+
+Small businesses are one example. While experts don’t yet have a complete picture of what’s driving Covid-19 transmission right now, 
+they generally agree that some of the most dangerous venues for spread are places like restaurants, bars, and gyms — venues 
+“where almost by definition, people can’t wear masks and are indoors,” as Brandon Guthrie, a professor of global health and 
+epidemiology at the University of Washington, told Vox. For example, one study found that people who tested positive for Covid-19 were about 
+twice as likely to have recently eaten in a restaurant compared to those who tested negative.
+
+However, many states and cities have been slow to shut down such businesses, even in the face of a devastating third wave this fall. 
+In New York, for example, restaurants remain open for indoor dining while schools are closed, though Mayor Bill de Blasio has announced a 
+plan to bring elementary school students back later in December. In much of Florida, restaurants and bars opened at full capacity in September, 
+despite continued spread of the virus.
+
+Many factors (including pressure from the Trump administration to just open everything) have gone into state and local leaders’ 
+decisions about business restrictions. But since the summer, one big factor has been the lack of federal aid to small businesses and workers. 
+Policymakers know that if they institute shutdowns, restaurants and bars will go out of business and workers will lose jobs. 
+This likely factors into their decision-making. “You’ve heard governors saying that the availability of those federal funds has been important,” 
+Guthrie said, and they “are really concerned about what is going to happen if those resources dry up.”
+
+In the absence of those resources, meanwhile, individual businesses can’t easily decide to stay closed — 
+even if their owners know it might be dangerous to remain open. Restaurants and bars “are not high-margin businesses even in the best of times,” 
+Leininger said. Their proprietors often “want to do right by public health, but also want to do right by their families and their workers in terms of 
+livelihoods.”
+
+It’s hard to quantify exactly how much the lack of federal support for businesses and workers has contributed to Covid-19 spread. 
+But clusters of infections have been linked to reopened bars and restaurants, including a Friendly’s in Riverhead, New York, and a 
+brewpub in East Lansing, Michigan. Between March and August, around one-quarter of Louisiana’s Covid-19 cases outside of nursing homes and prisons 
+“stemmed from bars and restaurants,” the New York Times reported; in Colorado, 9 percent of all outbreaks as of August had been traced to such venues.
+
+“Every time we see an outbreak that’s seeded in a bar or from a restaurant establishment with indoor dining, 
+that is something that could have potentially been prevented if those settings weren’t open,” Leininger said.
+
+The lack of aid is forcing Americans to put themselves and others at risk
+It’s not just about supporting businesses. 
+Individual Americans haven’t gotten the help they need from their government to keep themselves safe, either. 
+Earlier in the year, expanded unemployment may have helped people reduce their exposure to the virus because they 
+“felt less pressure to have to go back into higher-risk settings” for work, Guthrie said. But the expiration of those benefits, 
+along with the ongoing damage to the job market caused by the pandemic, has forced many people to take any job they can get — 
+even if that means exposing themselves and their families to the virus.
+
+“If you are a waitress, and you managed to get some hours at the place where you work but they’re not doing social distancing and 
+they’re not providing PPE [personal protective equipment], are you going to take the chance to quit and try to go work somewhere else?” 
+asked Janelle Jones, managing director of policy and research at the Groundwork Collaborative. Especially with a lack of help from the federal government, 
+many Americans can’t afford to take that chance.
+
+Others, meanwhile, have been unable to find work or pay their bills — and an increasing number face eviction from their homes. 
+Forty-three states and Washington, DC, passed eviction bans earlier this year, but some lasted as little as 10 weeks and many expired in the summer. 
+As of July, large shares of renters in many states — 58 percent in Tennessee and 59 percent in West Virginia, for example — were at risk of being evicted, 
+according to CNBC.
+
+The authors of a new study found that lifting state-level eviction moratoriums, in addition to costing people their homes, 
+also contributed to the spread of Covid-19. “When people are evicted, they often move in with friends and family, 
+and that increases your number of contacts,” UCLA’s Kathryn Leifheit, one of the study’s co-authors, explained to CNBC. 
+Others may move into a shelter, also increasing their risk.
+
+Whether it’s unemployment or evictions, Black and Latinx Americans, who are less likely than white people to have the accumulated 
+wealth to weather an economic crisis, have been disproportionately affected, likely contributing to the high rates of infection and death in many 
+communities of color. “People of color are more likely to be infected because we’re more exposed and less protected,” Camara Phyllis Jones, the 
+epidemiologist, said.
+
+The lack of economic protections is as important to understand as the lack of PPE and other safety measures. 
+“When you force people to enter into situations that are more dangerous because of an economic need when you could address the economic need,” 
+Jones said, it means “we have prioritized some people’s profit over other people’s lives.”
+
+The situation is about to become even more dire, since a number of programs, including the nationwide moratorium on evictions 
+and the extension of unemployment to part-time and gig economy workers, are slated to expire at the end of the year.
+
+“We’re already in a situation that is like a terror state of economic disasters,” the Groundwork Collaborative’s Jones told Vox, 
+“and it will just get worse at the end of the year.”
+
+Economic relief would help people support their families — and help the country control the virus
+Experts are clear that it doesn’t have to be this way. 
+Additional federal support for bars and restaurants would allow these businesses to shut down until it’s safe to reopen. 
+“This is restaurant owners’ and bar owners’ time of need,” Leininger said.
+
+Meanwhile, a continuation of unemployment benefits, along with paid leave and affordable health care, 
+could help ordinary people stay safe at home and help the US control the virus, Jones said. 
+More direct payments like the spring stimulus checks may also be necessary: “We can send people money,” Janelle Jones added. 
+“We know how to do it.”
+
+After months of deadlock in which Republicans opposed more generous proposals by Democrats, Congress may be starting to move on the issue: 
+On Tuesday, a bipartisan group of senators announced a $908 billion stimulus plan that would include $300 per week in additional unemployment benefits 
+for individuals, as well as support for state and local governments and small businesses, the Washington Post reported. 
+But even this compromise, which leaves out additional stimulus payments to individuals and is significantly slimmer than the $2 trillion package 
+sought by Democrats, will have a difficult road in a Republican-controlled Senate.
+
+And while Congress fights it out, millions of Americans will have to continue living and 
+working through a pandemic without the economic cushion needed to keep themselves and others safe. 
+=======
+Title:       The government’s failure to provide economic relief is killing people
+
+
+Description: The lack of funding from Congress is making the pandemic worse.
+
+
+Date:        12/02/2020
+
+
+Content:     When Covid-19 began spreading across the United States this spring, the federal government put in place a series of protections to help workers and families weather the economic impact.
+
+Then, one by one, the government took them all away.
+
+Expanded unemployment insurance, which helped keep millions of laid-off workers out of poverty, expired at the end of July. 
+Federal stimulus checks were issued to millions of taxpayers once, beginning in April, but never again. 
+The Paycheck Protection Program (PPP) loans meant to keep small businesses afloat expired in August, even as many of those businesses faced a 
+second surge in cases.
+
+And it’s about to get a lot worse, with a host of benefits from student loan forbearance to the federal eviction moratorium set to expire 
+at the end of December.
+
+Many economists agree that the federal government’s insufficient economic protections are driving Americans — 
+especially low-wage workers who have been hard-hit in the pandemic — further into poverty. But something else is also becoming clear: 
+The lack of economic safeguards for Americans is making Covid-19 worse, too.
+
+The latest evidence is a study showing that lifting state-level eviction moratoriums, 
+which allowed landlords to once again kick out renters for nonpayment, was associated with an increase in Covid-19 infections. 
+Between March and September, getting rid of the bans 
+and allowing evictions to continue led to as many as 433,700 excess Covid-19 cases and 10,700 deaths, the researchers found.
+
+Meanwhile, the lack of relief for small-business owners is forcing many to choose between closing their doors forever or staying open during the pandemic 
+— and contributing to transmission rates. “They’re making heartbreaking decisions every day,” Lindsey Leininger, 
+a public health educator and professor at Dartmouth’s Tuck School of Business, told Vox.
+
+And with unemployment benefits running out, workers are forced to go back to unsafe occupations, even if they have underlying conditions 
+that make them especially vulnerable to the virus. “We have not made it feasible for most people to safely shelter in place,” 
+Camara Phyllis Jones, a family physician, epidemiologist, and past president of the American Public Health Association, told Vox.
+
+Those most affected by the lack of economic protection are those most impacted by Covid-19: Black Americans, 
+other people of color, and people living in poverty. And as the country enters a dark winter, 
+inaction by the Trump administration and Congress isn’t just hurting Americans’ livelihoods — it’s costing them their lives.
+
+The federal government gave Americans some economic relief in the spring. Then it dried up.
+Covid-19 caused unprecedented economic devastation when it began spreading in the US earlier this year. 
+As restaurants, hotels, and other businesses shuttered, unemployment reached heights unseen since the Great Depression. 
+In late March, more than 6 million people filed for unemployment in a single week; before the pandemic, 
+the highest number of initial claims in a week was about 700,000 in 1982.
+
+Food banks were overwhelmed with individuals and families unable to afford groceries, 
+and the nonprofit Feeding America projected that one in six Americans — including one in four children — could experience food insecurity in 2020. 
+Meanwhile, 5.6 million workers lost their employer-provided health insurance in March and April, leaving many without a way to pay for medical care 
+during a public health crisis.
+
+To help blunt the pandemic’s economic impact, Congress instituted a number of measures: 
+a $600-per-week addition to unemployment benefits, an expansion of unemployment insurance to cover part-time and gig economy workers, 
+a stimulus check of up to $1,200 paid to many Americans, and PPP loans to help small businesses keep employees on the payroll. 
+Some state and local governments also announced eviction moratoriums, and in September, the federal government ordered 
+its own ban through the end of the year.
+
+The programs were far from perfect, but they helped many Americans stay afloat: Despite skyrocketing unemployment, 
+some estimates found that poverty actually fell in April and May thanks to the availability of federal aid.
+
+But as the virus continued to surge, that aid started to dry up. It’s now been four months since expanded unemployment benefits expired, 
+and Congress hasn’t approved any new relief in that time.
+
+That’s hurting Americans’ ability to pay their bills and provide for their families — 
+especially if they previously worked in low-wage service sector jobs that were disproportionately hard-hit in the spring and have been slow to return. 
+But it’s also hurting the country’s ability to fight the virus.
+
+Small businesses are one example. While experts don’t yet have a complete picture of what’s driving Covid-19 transmission right now, 
+they generally agree that some of the most dangerous venues for spread are places like restaurants, bars, and gyms — venues 
+“where almost by definition, people can’t wear masks and are indoors,” as Brandon Guthrie, a professor of global health and 
+epidemiology at the University of Washington, told Vox. For example, one study found that people who tested positive for Covid-19 were about 
+twice as likely to have recently eaten in a restaurant compared to those who tested negative.
+
+However, many states and cities have been slow to shut down such businesses, even in the face of a devastating third wave this fall. 
+In New York, for example, restaurants remain open for indoor dining while schools are closed, though Mayor Bill de Blasio has announced a 
+plan to bring elementary school students back later in December. In much of Florida, restaurants and bars opened at full capacity in September, 
+despite continued spread of the virus.
+
+Many factors (including pressure from the Trump administration to just open everything) have gone into state and local leaders’ 
+decisions about business restrictions. But since the summer, one big factor has been the lack of federal aid to small businesses and workers. 
+Policymakers know that if they institute shutdowns, restaurants and bars will go out of business and workers will lose jobs. 
+This likely factors into their decision-making. “You’ve heard governors saying that the availability of those federal funds has been important,” 
+Guthrie said, and they “are really concerned about what is going to happen if those resources dry up.”
+
+In the absence of those resources, meanwhile, individual businesses can’t easily decide to stay closed — 
+even if their owners know it might be dangerous to remain open. Restaurants and bars “are not high-margin businesses even in the best of times,” 
+Leininger said. Their proprietors often “want to do right by public health, but also want to do right by their families and their workers in terms of 
+livelihoods.”
+
+It’s hard to quantify exactly how much the lack of federal support for businesses and workers has contributed to Covid-19 spread. 
+But clusters of infections have been linked to reopened bars and restaurants, including a Friendly’s in Riverhead, New York, and a 
+brewpub in East Lansing, Michigan. Between March and August, around one-quarter of Louisiana’s Covid-19 cases outside of nursing homes and prisons 
+“stemmed from bars and restaurants,” the New York Times reported; in Colorado, 9 percent of all outbreaks as of August had been traced to such venues.
+
+“Every time we see an outbreak that’s seeded in a bar or from a restaurant establishment with indoor dining, 
+that is something that could have potentially been prevented if those settings weren’t open,” Leininger said.
+
+The lack of aid is forcing Americans to put themselves and others at risk
+It’s not just about supporting businesses. 
+Individual Americans haven’t gotten the help they need from their government to keep themselves safe, either. 
+Earlier in the year, expanded unemployment may have helped people reduce their exposure to the virus because they 
+“felt less pressure to have to go back into higher-risk settings” for work, Guthrie said. But the expiration of those benefits, 
+along with the ongoing damage to the job market caused by the pandemic, has forced many people to take any job they can get — 
+even if that means exposing themselves and their families to the virus.
+
+“If you are a waitress, and you managed to get some hours at the place where you work but they’re not doing social distancing and 
+they’re not providing PPE [personal protective equipment], are you going to take the chance to quit and try to go work somewhere else?” 
+asked Janelle Jones, managing director of policy and research at the Groundwork Collaborative. Especially with a lack of help from the federal government, 
+many Americans can’t afford to take that chance.
+
+Others, meanwhile, have been unable to find work or pay their bills — and an increasing number face eviction from their homes. 
+Forty-three states and Washington, DC, passed eviction bans earlier this year, but some lasted as little as 10 weeks and many expired in the summer. 
+As of July, large shares of renters in many states — 58 percent in Tennessee and 59 percent in West Virginia, for example — were at risk of being evicted, 
+according to CNBC.
+
+The authors of a new study found that lifting state-level eviction moratoriums, in addition to costing people their homes, 
+also contributed to the spread of Covid-19. “When people are evicted, they often move in with friends and family, 
+and that increases your number of contacts,” UCLA’s Kathryn Leifheit, one of the study’s co-authors, explained to CNBC. 
+Others may move into a shelter, also increasing their risk.
+
+Whether it’s unemployment or evictions, Black and Latinx Americans, who are less likely than white people to have the accumulated 
+wealth to weather an economic crisis, have been disproportionately affected, likely contributing to the high rates of infection and death in many 
+communities of color. “People of color are more likely to be infected because we’re more exposed and less protected,” Camara Phyllis Jones, the 
+epidemiologist, said.
+
+The lack of economic protections is as important to understand as the lack of PPE and other safety measures. 
+“When you force people to enter into situations that are more dangerous because of an economic need when you could address the economic need,” 
+Jones said, it means “we have prioritized some people’s profit over other people’s lives.”
+
+The situation is about to become even more dire, since a number of programs, including the nationwide moratorium on evictions 
+and the extension of unemployment to part-time and gig economy workers, are slated to expire at the end of the year.
+
+“We’re already in a situation that is like a terror state of economic disasters,” the Groundwork Collaborative’s Jones told Vox, 
+“and it will just get worse at the end of the year.”
+
+Economic relief would help people support their families — and help the country control the virus
+Experts are clear that it doesn’t have to be this way. 
+Additional federal support for bars and restaurants would allow these businesses to shut down until it’s safe to reopen. 
+“This is restaurant owners’ and bar owners’ time of need,” Leininger said.
+
+Meanwhile, a continuation of unemployment benefits, along with paid leave and affordable health care, 
+could help ordinary people stay safe at home and help the US control the virus, Jones said. 
+More direct payments like the spring stimulus checks may also be necessary: “We can send people money,” Janelle Jones added. 
+“We know how to do it.”
+
+After months of deadlock in which Republicans opposed more generous proposals by Democrats, Congress may be starting to move on the issue: 
+On Tuesday, a bipartisan group of senators announced a $908 billion stimulus plan that would include $300 per week in additional unemployment benefits 
+for individuals, as well as support for state and local governments and small businesses, the Washington Post reported. 
+But even this compromise, which leaves out additional stimulus payments to individuals and is significantly slimmer than the $2 trillion package 
+sought by Democrats, will have a difficult road in a Republican-controlled Senate.
+
+And while Congress fights it out, millions of Americans will have to continue living and 
+working through a pandemic without the economic cushion needed to keep themselves and others safe. 
+>>>>>>> cffa3bdbec3572838a0a596225641a328dfffb8e
+“It is a choice we’re making every day to leave millions of people this insecure and vulnerable,” Jones said.

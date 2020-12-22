@@ -1,0 +1,205 @@
+Title:       Airlines Say Flying During COVID-19 Is Safe. The Science Isn’t Quite So Certain.
+
+
+Description: Your chances of catching the coronavirus on a plane are probably low, studies indicate. 
+             But the airline industry, which has funded a chunk of that research, hasn’t always stuck to the science.
+
+
+Date:        11/19/2020
+
+
+Content:     As the coronavirus surges out of control throughout the United States, many Americans are wondering whether it’s safe to fly home 
+for the holidays.
+
+Unfortunately, science has no easy answers.
+
+Research shows that the virus can float indoors in tiny particles and infect those nearby. 
+The good news: Studies suggest that the chances of inhaling these aerosols and catching COVID-19 on a plane are low, 
+thanks in large part to powerful ventilation systems and strict mask-wearing requirements.
+
+But the risk is not zero. And some of these studies assume conditions that don’t necessarily exist in the real world, 
+like that everyone will wear their mask during the whole flight. A chunk of this research was also financially supported by the airline industry 
+— which has a vested interest in portraying flying as safe after a year of gutting financial losses. 
+Some researchers told BuzzFeed News that the industry gave their findings an overly positive spin.
+
+A recent study from the Department of Defense shows just how hard it can be to translate those caveats into clear guidance for anxious travelers.
+
+The study simulated in-flight transmission of virus droplets and found that the “overall exposure risk from aerosolized pathogens, 
+like coronavirus, is very low,” according to its press release. An executive at United Airlines, which donated flight time to the project, 
+told a reporter that the risk was “virtually nonexistent.” And in the press release, a military official proclaimed that a passenger would have 
+to log “about 54 flight hours” in order to inhale an infectious dose.
+
+That number was widely featured in media coverage of the study, from Vox and Business Insider to the Washington Post and Fodor’s Travel.
+
+But Joshua Santarpia, a coauthor of the report and a pathologist and microbiologist at the University of Nebraska Medical Center, said that 
+54 hours was a hypothetical calculation based on several assumptions about the virus and was not intended as a guideline for 
+how long it is safe to fly. When the number ended up getting a lot of press attention, he and several other coauthors grew worried it was 
+being taken out of context. It has since been taken out of the report at their request.
+
+To Santarpia, the incident demonstrated how, in an environment as complex and unpredictable as a plane cabin packed with people, 
+studies like his can only go so far in terms of answering questions about the risk of flying during a pandemic. 
+They also don’t address all the other facets of traveling, like whether to do it in the first place: 
+The CDC strongly recommended Thursday against traveling for Thanksgiving.
+
+“While I know a lot of people want me to say that it’s safe to fly or not safe to fly,” Santarpia said, “it’s just not like that.”
+
+Since the beginning of the pandemic, researchers have tracked how the coronavirus has spread across borders, including by plane.
+
+On flights within Australia and to Hong Kong in March, when mask-wearing was sporadic, small groups of people came down with infections 
+linked to other passengers. Tests confirmed that the passengers shared virus genetic sequences that hadn’t been previously 
+reported in those countries, making it highly likely that they’d contracted it on the flights. 
+Possible or likely instances of transmission were also reported in connection with flights to China in January and trips to Vietnam and Germany 
+in March.
+
+Masks are believed to help keep transmission on planes low, as researchers think was the case when likely infected passengers from the 
+Diamond Princess cruise ship were flown home to Israel in February.
+
+But requiring a mask does not guarantee safety, on or off a plane. This summer, an outbreak of 59 cases in Ireland was traced back to a seven-hour flight into the country. 
+Of the 49 passengers on board, 13 later tested positive, with symptoms first showing up about two days after the flight.
+
+Notably, the plane was just 17% full. Nine of the infected passengers wore masks, one child didn’t, and it was unknown if the three others did. 
+Four of the masked passengers who became infected also didn’t come into close contact with any of the other positive cases, 
+raising questions about how the virus may have traveled within the cabin or at the airport. The outbreak “demonstrates the potential for 
+spread of SARS-CoV-2 linked to air travel,” researchers who studied the outbreak concluded. Their report didn’t disclose the origin of the flight.
+
+To soothe wary passengers and reduce the risk, airlines have required masks, blocked off middle seats, 
+spaced out the processes of boarding and deplaning, switched to contactless boarding passes, stepped up cleaning, 
+and cut back on food and beverage service.
+
+Despite these efforts, the aviation industry is in financial freefall. By one estimate, airlines expect to lose up to $84 billion this year.
+
+Scientific research is yet another way that the industry has sought to get the message out about how safe it is to fly. In the spring, an entrepreneur who founded JetBlue and other airlines wrote in an essay, 
+“I have spent all my days and a lot of my nights trying to find a solution to save as many as possible of the 40,000 jobs 
+I am responsible for and do what I can to help avoid an economic catastrophe in the making.” In his “search for a solution,” 
+he donated to a controversial Stanford University study that found that the coronavirus in the surrounding region was more widespread, 
+and therefore that much less deadly, than believed. (A whistleblower complaint later filed to the university alleged the donation 
+presented a conflict of interest that was not disclosed.)
+
+In October, as the holiday season approached, the International Air Transport Association, 
+which represents nearly 300 airlines around the world, issued a press release titled 
+“Research Points to Low Risk for COVID-19 Transmission Inflight.”
+
+It stated in part that, according to data collected by the group, there have been just 44 coronavirus infections associated with 
+flying since the start of 2020, a period over which 1.2 billion passengers have traveled. Those numbers were “extremely reassuring,” 
+David Powell, the IATA’s medical adviser, said in the press release. “The risk of a passenger contracting 
+COVID-19 while onboard appears very low.”
+
+The press release also stated that these figures “align with the low numbers reported in a recently published peer-reviewed study.”
+
+But David Freedman, a coauthor of that study, was not happy with IATA’s interpretation of his work.
+
+His paper summarized all known confirmed and possible instances of COVID-19 flight transmissions, which added up to 44. 
+But Freedman said it was wrong to extrapolate the risk by dividing that number by 1.2 billion because it is not possible to know, 
+without extensive testing and tracing, whether all of those people were actually uninfected. “That’s the wrong math and wrong denominator,” 
+Freedman, an expert in infectious diseases and travel medicine at the University of Alabama at Birmingham, told BuzzFeed News.
+
+For that reason, he said, he declined an invitation to speak at an IATA press conference. 
+“They’re perfectly entitled to quote the data once it’s published, but they put their headline on my data with a different conclusion,” he said.
+
+Perry Flint, an IATA spokesperson, said that the group had noted in its press release and at its conference that the 
+actual number of cases may be greater than 44. “Meanwhile, it is also true that the documented, published transmissions in flight are very low, 
+and those that have occurred with on-board mask wearing are lower still — and it is true that well over a 
+billion people have travelled by air during the pandemic,” he said by email.
+
+Despite disagreements over how to interpret the research so far, it’s pretty clear that flying does not consistently spawn large outbreaks, 
+independent experts told BuzzFeed News.
+
+Freedman’s study, in fact, found instances where the coronavirus did not spread on planes. 
+On five Emirates flights to Hong Kong this summer with at least seven infected passengers on each plane, 
+masking was strictly enforced and no one else became infected.
+
+Commercial airplanes have the advantage of high-efficiency particulate air (HEPA) filters, 
+the kind found in hospitals. These refresh cabin air every two to three minutes on average, 
+combine filtered air with outside air, and remove 99% of particles the size of the coronavirus, according to an October study from researchers 
+at the Harvard T.H. Chan School of Public Health.
+
+That report, which has not been peer-reviewed nor published in a scientific journal, was based on models and data gathered by the 
+airline industry, the team’s own models, research on coronavirus transmission, and interviews with industry employees. 
+It concluded that a multipronged hygiene strategy “reduces the risk of SARS-CoV-2 transmission onboard aircraft below that of other 
+routine activities during the pandemic, such as grocery shopping or eating out.”
+
+The research’s main sponsor was Airlines for America, a trade group for airlines in North America. 
+Leonard Marcus, who led the project as director of Harvard’s Aviation Public Health Initiative, declined to disclose how much money the 
+organization contributed to the study but said he and his team had independence over their findings. 
+He said they would not have been able to do as thorough a job if the airlines had not shared data and allowed access to employees. 
+Without their input, he said, it would have been “like you’re trying to study someone but you’re across the river from them.”
+
+“We were very clear; we’re not making business recommendations,” Marcus said. “We’re making public health recommendations.” 
+Those included requiring universal mask-wearing, regularly disinfecting, and consistently running the plane’s ventilation systems, 
+not just in the air but also on the ground.
+
+Freedman said the Aviation Public Health Initiative’s proposals were all sound, although he would go one step further than 
+they did and recommend that all crew members get tested before a flight.
+
+In response, Marcus said that his team had agreed on the importance of doing so, but because cheap, rapid antigen tests are not yet 
+widely available, they didn’t want to recommend something that wasn’t possible to implement. 
+Some airlines are already taking steps toward this: This week, United Airlines launched its first flight where all crew members and passengers 
+over age 2 underwent testing at the airport beforehand. (Rapid tests are not foolproof, however, and are known to give false negatives if 
+someone is tested before or after the peak of their infection.)
+
+Yet another study was overseen by a division of the Department of Defense called Transportation Command, or Transcom, 
+which transports military personnel and their families. Over eight days on Boeing 777 and 767 aircraft, researchers put mannequins in 
+plane seats, both with and without face masks on, and released fluorescent tracer particles from them to see how far their “breaths” 
+penetrated nearby seats.
+
+The particles were rapidly diluted by the planes’ ventilation systems and remained detectable for less than six minutes on average, 
+according to the report, which has not undergone a peer review. By comparison, the researchers noted, a house takes around 90 minutes 
+to clear these types of particles.
+
+But as Freedman observed, those testing conditions were extremely specific and didn’t account for any number of other factors that 
+can and do happen on flights — like boarding, deplaning, eating, talking, sneezing, coughing, and going to the bathroom. 
+The experiment also didn’t account for the number of infectious people who may be on board, nor did it study other forms of transmission, 
+such as touching contaminated surfaces.
+
+Santarpia, the University of Nebraska professor who worked on the study, was quick to agree that the public should be careful about 
+drawing broad conclusions from the results.
+
+“As soon as you add people to that mix, it becomes infinitely more complicated almost right away,” he said.
+
+So Santarpia raised his eyebrows when United Airlines’ chief communication officer, in an interview with ABC News, 
+said the study showed that the risk of transmission was “virtually nonexistent.” United Airlines lent flight time, personnel, 
+and masks to the project, and Boeing provided engineering advice.
+
+United’s website also claimed until recently that “new research shows our aircraft cabins to be among the safest of public indoor environments,” 
+again citing the Transcom study to say that exposure on planes is “virtually non-existent” due to air filtration. 
+Santarpia said his team had not approved that language.
+
+The report, released in October, also mentioned it would take “54 flight hours” of exposure to the virus for someone to become infected. 
+But that was based on educated guesses that the researchers made about other factors, like that humans exhale 4,000 virus particles per hour 
+(which is true of other human coronaviruses and aligns with estimates derived from other SARS-CoV-2 studies) and that an infectious dose 
+consists of 1,000 particles. That was a guess based on a wide range of estimates, the researchers wrote, since the true number is not known.
+
+“I wasn’t thrilled about it when it was in there in the first place, but I thought it was heavily caveated enough so it basically wouldn’t 
+be a big deal,” Santarpia said. After it got media attention, however, he and several of his coauthors asked Transcom to remove the figure.
+
+Last week, to Santarpia’s relief, the agency uploaded a new version of the paper along with a two-page explanation from the scientists. 
+“I hope it helps put the data in the right context,” he said.
+
+At the end of the day, experts say, it probably is low-risk to fly — 
+even if the airline industry has stretched some of the conclusions that can be drawn from the science.
+
+The closest that Freedman, the University of Alabama professor, can come to characterizing the risk of flying is this: “It’s not high,” he said. But “it’s not zero or close to zero.”
+
+That said, there are plenty of other potential hazards involved with the act of flying, like standing in crowded security lines. 
+It is also risky to fly to or from somewhere with high positivity rates, as is the case for most of the US right now. Ahead of Thanksgiving, 
+a growing number of states, from California to Vermont, are requiring quarantines for out-of-town visitors, urging residents to avoid traveling, 
+and discouraging gatherings between different households.
+
+If you must fly, there are ways to decrease your risk, starting with keeping your flight time to a minimum.
+
+“I would be a lot more comfortable with a couple-hour flight across the US somewhere than I would flying to Japan, for example,” 
+said Alex Huffman, an aerosol scientist at the University of Denver in Colorado. For one, the more time you spend around someone infected, 
+the greater exposure you have to the virus. But also “on a longer flight, people are more likely to be eating and drinking,” he said, 
+“and when they’re taking off their masks, that’s when the exposure goes up.”
+
+“It doesn’t matter if someone is supposed to be wearing a mask,” Huffman said. “If people aren’t wearing masks — 
+some people just don’t wear masks or they wear them improperly — your risk gets higher. It really takes the airlines to be enforcers in ways 
+they may not like to be.”
+
+For his part, Huffman doesn’t intend to get on a plane anytime soon. He and his family are staying home for Thanksgiving, 
+and they might drive to see his parents in Arizona for Christmas.
+
+As for Freedman, he and his wife are planning to travel from Alabama to a small Thanksgiving with their son in Connecticut. 
+Their mode of transportation: an Amtrak train, where they’ll climb into a sleeper compartment and stay there until they reach their destination. 
+“We’re not opening it for 22 hours,” he said. 
+
