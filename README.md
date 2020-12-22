@@ -1,4 +1,4 @@
-# Terrific Coders - KnowCOVID
+# KnowCOVID
 
 
 ## Overview
